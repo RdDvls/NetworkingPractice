@@ -1,0 +1,6 @@
+Simple Chat Server
+
+Purpose:  To practice setting up servers and clients to connect to the server. Old Iron Yard week 3 assignment. Reworked the code to concrete knowledge of Readers from server-to-client and back.
+
+Tools: Java Server and Sockets and their associated classes (BufferedReader, PrintWriter, StreamReader)
+
